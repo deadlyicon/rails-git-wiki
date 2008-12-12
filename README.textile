@@ -3,3 +3,5 @@ h1. Rails Git Wiki
 Rails Git Wiki is a Rails 2.2.2 application based on "Bort":http://github.com/fudgestudios/bort/ and inspired by "git-wiki":http://github.com/sr/git-wiki/
 
 This is a pre-beta work in progress open to any and all support
+
+rails-git-wiki is being written along side a stand along rails plugin called "git-wiki-with-it":http://github.com/deadlyicon/git-wiki-with-it/ so you wont find it in this git repo but you'll need it to run this app
